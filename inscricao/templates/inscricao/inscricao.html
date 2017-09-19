@@ -1,0 +1,123 @@
+{% extends "index.html" %}
+
+{% block content %}
+<h1 class="logo cursive lo" style="margin-top: 5%;">
+    DeepWeek Inscrição
+</h1>
+<br>
+
+
+<div class="content">
+
+    <div class="row">
+
+        <form role="form" action="" method="post" style="color: white;">
+            {% csrf_token %}
+            <div class="row">
+                <div class="col-sm-12" style="text-align: center">
+                    <h3><strong>Dados Pessoais</strong></h3>
+                </div>
+                <div class="col-sm-2"></div>
+                <div class="col-sm-4">
+                        <div class="col-sm-12">
+                            <div class="form-group {% if form.nome.errors %} has-error {% endif %}">
+
+                                <label for="inputError1"  >Nome completo <b style="color: red">*</b></label>
+                                <input type="text" value="{% if form.nome.value %}{{form.nome.value }}{% endif %}" name="nome" class="form-control" id="inputError1" placeholder="Nome">
+                                {% if form.nome.errors %}<strong style="color: red">Campo é obrigatório</strong>{% endif %}
+                            </div>
+                            <div class="form-group  {% if form.telefone.errors %} has-error {% endif %}">
+                                <label for="exampleInputPassword1">Telefone <b style="color: red">*</b></label>
+                                <input type="text" value="{% if form.telefone.value %}{{form.telefone.value }}{% endif %}" name="telefone" class="form-control" id="datemask" placeholder="Telefone" data-inputmask='"mask": "(99) 99999-9999"' data-mask>
+                                 {% if form.telefone.errors %}<strong style="color: red">Campo é obrigatório</strong>{% endif %}
+                            </div>
+                        </div>    
+                </div>  
+                <div class="col-sm-4">
+                        <div class="col-sm-12">
+                            <div class="form-group  {% if form.email.errors %} has-error {% endif %}">
+                                <label for="exampleInputEmail1">Email <b style="color: red">*</b></label>
+                                <input type="email" value="{% if form.email.value %}{{form.email.value }}{% endif %}" name="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                                 {% if form.email.errors %}<strong style="color: red">Campo é obrigatório</strong>{% endif %}
+                            </div>
+                            <div class="form-group  {% if form.cpf.errors %} has-error {% endif %}">
+                                <label for="exampleInputPassword1">CPF <b style="color: red">*</b></label>
+                                <input type="text" value="{% if form.cpf.value %}{{form.cpf.value }}{% endif %}" name="cpf" class="form-control" id="datemask" placeholder="CPF" data-inputmask='"mask": "999.999.999-99"' data-mask>
+                                 {% if form.cpf.errors %}<strong style="color: red">Campo é obrigatório</strong>{% endif %}
+                            </div>
+                        </div>    
+                </div>
+                <div class="col-sm-2"></div>
+            </div>
+            <div class="row">
+                    <div class="col-sm-12" style="text-align: center">
+                        <h3><strong>Dados Institucionais</strong></h3>
+                    </div>
+                    <div class="col-sm-2"></div>
+                    <div class="col-sm-3 col-xs-8">
+                         <div class="form-group" style="margin-left: 5%;">
+                            <label for="sel1">Modalidade de inscrição:</label>
+                              <select class="form-control" id="sel1" name="dados_institucionais">
+                                <option>Estudante de Graduação</option>
+                                <option>Estudante de Pós-Graduação</option>
+                                <option>Docente em Educação Superior</option>
+                                <option>Outros Profissionais</option>
+                              </select>
+                         </div>
+                    </div>
+                   <div class="col-sm-4">
+
+                   </div>
+                    
+                <div class="col-sm-2"></div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="col-sm-12" style="text-align: center;">
+                   
+                </div>
+                <div class="col-sm-2"></div>
+                <div class="col-sm-4">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label for="exampleInputPassword1">Instituição</label>
+                                <input type="text" value="{% if form.instituicao.value %}{{form.instituicao.value }}{% endif %}"  name="instituicao" class="form-control" id="exampleInputPassword1" placeholder="Instituição">
+                            </div>
+                        </div>    
+                </div>  
+                <div class="col-sm-4">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label for="exampleInputPassword1">Curso</label>
+                                <input type="text" value="{% if form.curso.value %}{{form.curso.value }}{% endif %}" name="curso" class="form-control" id="exampleInputPassword1" placeholder="Curso">
+                            </div>
+                        </div>    
+                </div>
+                <div class="col-sm-2">
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-5" >
+
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-info btn-fill" style="margin-left: 3%;  text-shadow: #000 1px 1px;"><strong>Inscrever-se</strong></button>
+                        <a href="/" class="btn btn-danger btn-fill" style="color: white; text-shadow: #000 1px 1px; margin-left: 2%"><strong>Cancelar</strong></a>
+                    </div>
+
+                <div class="col-sm-8"></div>
+            </div>
+            <br> <br> <br>
+                <br> <br> <br>
+
+           
+            
+            </div>
+        </form>
+    </div>
+</div>
+</div>
+{% endblock content %}
+{% block footer %}
+{% endblock footer %}

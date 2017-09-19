@@ -1,0 +1,44 @@
+.titu{
+
+}
+.titulo{
+    color: white;
+    text-align: center;
+    font-size: 238%;
+  
+}
+.d{
+
+}
+
+.lo{
+    margin: 0px;
+}
+
+#cont{
+    background: white;
+    height: 500px;
+    opacity: 0.9;
+    border-radius: 8px 8px 8px 8px;
+}
+
+
+@media (min-width: 768px){ 
+    .but{
+        font-size: 18px;
+        margin-top: -20px;
+    }
+    .butc{
+        margin-left: -30px;
+    }
+
+
+}
+@media (max-width: 768px){ 
+    .but{
+        font-size: 18px;
+        margin-top: 2%;
+        margin-left: 8%;
+    }
+    
+}
