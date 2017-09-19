@@ -2,305 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b54b282-616f-46cf-982c-8b4bfdef7592" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/apple-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/blurred-black-cover.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/dcc113f2-c600-4e5c-a80d-f0354ace40a5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/default.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/AD.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/AE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/AG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/AM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/AR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/AT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/AU.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/BE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/BF.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/BG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/BO.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/BR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/CA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/CD.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/CG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/CH.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/CL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/CM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/CN.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/CO.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/CZ.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/DE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/DJ.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/DK.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/DZ.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/EE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/EG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/ES.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/FI.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/FR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/GA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/GB.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/GM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/GT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/HN.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/HT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/HU.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/ID.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/IE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/IL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/IN.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/IQ.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/IR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/IT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/JM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/JO.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/JP.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/KG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/KN.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/KP.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/KR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/KW.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/KZ.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/LA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/LB.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/LC.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/LS.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/LU.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/LV.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/MG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/MK.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/ML.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/MM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/MT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/MX.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/NA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/NE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/NG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/NI.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/NL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/NO.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/OM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/PA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/PE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/PG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/PK.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/PL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/PT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/PY.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/QA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/RO.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/RU.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/RW.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/SA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/SE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/SG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/SL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/SN.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/SO.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/SV.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/TD.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/TJ.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/TL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/TR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/TZ.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/UA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/US.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/VE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/VN.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/flags/YE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/new_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/restaurant.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/rick.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/thumb_application.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/thumb_image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/thumb_restaurant.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/thumb_video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/images/video_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/aero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/aero@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/blue@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/flat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/flat@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/green@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/grey@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/orange@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/pink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/pink@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/purple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/purple@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/red@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/yellow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/futurico/futurico.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/futurico/futurico@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/line@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/aero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/aero@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/blue@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/green@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/grey@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/minimal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/minimal@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/orange@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/pink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/pink@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/purple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/purple@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/red@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/yellow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/polaris/polaris.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/polaris/polaris@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/aero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/aero@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/blue@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/green@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/grey@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/orange@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/pink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/pink@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/purple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/purple@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/red@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/square.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/square@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/yellow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/seminario.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contato/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contato/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contato/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contato/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contato/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contato/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contato/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contato/templates/contato/contato.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contato/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contato/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contato/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/css/coming-sssoon-demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/css/coming-sssoon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/css/css.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/js/jquery-1.10.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/bootstrap-slider/bootstrap-slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/bootstrap-slider/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/_all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/aero.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/grey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/pink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/flat/yellow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/futurico/futurico.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/icheck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/icheck.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/_all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/aero.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/grey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/line.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/pink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/line/yellow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/_all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/aero.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/grey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/minimal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/pink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/minimal/yellow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/polaris/polaris.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/_all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/aero.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/grey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/pink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/square.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/iCheck/square/yellow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/input-mask/jquery.inputmask.date.extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/input-mask/jquery.inputmask.extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/input-mask/jquery.inputmask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/input-mask/jquery.inputmask.numeric.extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/input-mask/jquery.inputmask.phone.extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/input-mask/jquery.inputmask.regex.extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/input-mask/phone-codes/phone-be.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/input-mask/phone-codes/phone-codes.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/input-mask/phone-codes/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/jQueryUI/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/jQueryUI/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/jvectormap/jquery-jvectormap-1.2.2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/jvectormap/jquery-jvectormap-usa-en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/pace/pace.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/pace/pace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/pace/pace.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/pace/pace.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/timepicker/bootstrap-timepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/timepicker/bootstrap-timepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/timepicker/bootstrap-timepicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/static/plugins/timepicker/bootstrap-timepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/templates/inscricao/confirmacao.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/templates/inscricao/inscricao.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inscricao/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seminario/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seminario/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seminario/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seminario/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -317,7 +20,7 @@
       <file leaf-file-name="confirmacao.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inscricao/templates/inscricao/confirmacao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="29">
               <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
               <folding>
                 <element signature="e#349#375#0#HTML" expanded="true" />
@@ -326,11 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="css.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="css.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inscricao/static/css/css.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
               <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -595,6 +308,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -646,6 +360,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="44" column="68" lean-forward="false" selection-start-line="44" selection-start-column="68" selection-end-line="44" selection-end-column="68" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -680,6 +395,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -687,6 +403,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -694,6 +413,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="97" column="41" lean-forward="false" selection-start-line="97" selection-start-column="41" selection-end-line="97" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -750,6 +470,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="66" lean-forward="false" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -757,6 +480,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="50" column="75" lean-forward="true" selection-start-line="50" selection-start-column="75" selection-end-line="50" selection-end-column="75" />
+          <folding>
+            <element signature="e#2328#2347#0#HTML" expanded="true" />
+            <element signature="e#2731#2749#0#HTML" expanded="true" />
+            <element signature="e#3054#3091#0#HTML" expanded="true" />
+            <element signature="e#3215#3233#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -764,6 +493,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="122" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -785,9 +515,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/inscricao/static/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/inscricao/templates/inscricao/confirmacao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="29">
           <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
           <folding>
             <element signature="e#349#375#0#HTML" expanded="true" />
@@ -797,16 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inscricao/static/css/css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
